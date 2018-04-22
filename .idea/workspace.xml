@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5057fe55-6920-45a1-a1fc-de9a5c143a8e" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app1" afterPath="$PROJECT_DIR$/app1" />
       <change beforePath="$PROJECT_DIR$/app1/.gitignore" afterPath="$PROJECT_DIR$/app1/.gitignore" />
       <change beforePath="$PROJECT_DIR$/app1/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
       <change beforePath="$PROJECT_DIR$/app1/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
@@ -12,6 +15,7 @@
       <change beforePath="$PROJECT_DIR$/app1/pom.xml" afterPath="$PROJECT_DIR$/app1/pom.xml" />
       <change beforePath="$PROJECT_DIR$/app1/src/main/java/com/example/soa/SoaApplication.java" afterPath="$PROJECT_DIR$/app1/src/main/java/com/example/soa/SoaApplication.java" />
       <change beforePath="$PROJECT_DIR$/app1/src/test/java/com/example/soa/SoaApplicationTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app2" afterPath="$PROJECT_DIR$/app2" />
       <change beforePath="$PROJECT_DIR$/app2/.gitignore" afterPath="$PROJECT_DIR$/app2/.gitignore" />
       <change beforePath="$PROJECT_DIR$/app2/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
       <change beforePath="$PROJECT_DIR$/app2/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
@@ -22,6 +26,7 @@
       <change beforePath="$PROJECT_DIR$/app2/pom.xml" afterPath="$PROJECT_DIR$/app2/pom.xml" />
       <change beforePath="$PROJECT_DIR$/app2/src/main/java/com/example/soa/SoaApplication.java" afterPath="$PROJECT_DIR$/app2/src/main/java/com/example/soa/SoaApplication.java" />
       <change beforePath="$PROJECT_DIR$/app2/src/test/java/com/example/soa/SoaApplicationTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app3" afterPath="$PROJECT_DIR$/app3" />
       <change beforePath="$PROJECT_DIR$/app3/.gitignore" afterPath="$PROJECT_DIR$/app3/.gitignore" />
       <change beforePath="$PROJECT_DIR$/app3/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
       <change beforePath="$PROJECT_DIR$/app3/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
@@ -32,6 +37,7 @@
       <change beforePath="$PROJECT_DIR$/app3/pom.xml" afterPath="$PROJECT_DIR$/app3/pom.xml" />
       <change beforePath="$PROJECT_DIR$/app3/src/main/java/com/example/soa/SoaApplication.java" afterPath="$PROJECT_DIR$/app3/src/main/java/com/example/soa/SoaApplication.java" />
       <change beforePath="$PROJECT_DIR$/app3/src/test/java/com/example/soa/SoaApplicationTests.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/eureka" afterPath="$PROJECT_DIR$/eureka" />
       <change beforePath="$PROJECT_DIR$/eureka/.mvn/wrapper/maven-wrapper.jar" afterPath="" />
       <change beforePath="$PROJECT_DIR$/eureka/.mvn/wrapper/maven-wrapper.properties" afterPath="" />
       <change beforePath="$PROJECT_DIR$/eureka/Dockerfile" afterPath="" />
@@ -103,6 +109,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/eureka" />
+    <push-targets>
+      <push-target-info target-remote="novo" target-branch="master" repo="$PROJECT_DIR$" source="master" />
+    </push-targets>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -143,11 +152,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="91" />
-    <option name="y" value="24" />
+    <option name="y" value="-4" />
     <option name="width" value="920" />
-    <option name="height" value="1056" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -548,31 +557,30 @@
       <workItem from="1524330135290" duration="111000" />
       <workItem from="1524330253147" duration="787000" />
       <workItem from="1524331076373" duration="3512000" />
-      <workItem from="1524401729437" duration="1148000" />
+      <workItem from="1524401729437" duration="2264000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7366000" />
+    <option name="totallyTimeSpent" value="8482000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="91" y="24" width="920" height="1056" extended-state="4" />
-    <editor active="true" />
+    <frame x="81" y="-4" width="1839" height="1084" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33894736" sideWeight="0.53913045" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32924336" sideWeight="0.5367047" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3228261" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33894736" sideWeight="0.46086955" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16150081" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32924336" sideWeight="0.46329528" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
